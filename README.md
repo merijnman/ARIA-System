@@ -32,4 +32,5 @@ Running:
 	'Start ActiveMQ.bat'        - starts the ActiveMQ broker
 	'Stop ActiveMQ.bat'         - stops a running instance of the broker
 	'RUN-Alice.bat'             - starts the full system - requires ActiveMQ to be started first ('Start ActiveMQ.bat')
+	'RUN-Alice-NEW.bat'         - starts the full system (version 2.3) - requires ActiveMQ to be started first ('Start ActiveMQ.bat')
 	'Start launcher.bat'        - starts an empty launcher with no configuration
